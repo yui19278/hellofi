@@ -1,9 +1,5 @@
 {
-    "java.project.sourcePaths": [
-        "src",
-        "java-basic-2/src",
-        "socket-1/src"
-    ],
+    "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
