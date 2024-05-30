@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UDPClient",
+            "request": "launch",
+            "mainClass": "UDPClient",
+            "projectName": "hellofi_f1ce59bd"
+        },
+        {
+            "type": "java",
+            "name": "UDPServer",
+            "request": "launch",
+            "mainClass": "UDPServer",
+            "projectName": "hellofi_f1ce59bd"
+        },
+        {
+            "type": "java",
             "name": "XmasTCPClient",
             "request": "launch",
             "mainClass": "XmasTCPClient",

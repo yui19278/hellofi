@@ -1,8 +1,10 @@
 {
     "java.project.sourcePaths": [
         "src",
+        "socket-3/src/networking/udp",
+        "socket-1/src",
         "java-basic-2/src",
-        "socket-1/src"
+        "socket-3/src/basic"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
